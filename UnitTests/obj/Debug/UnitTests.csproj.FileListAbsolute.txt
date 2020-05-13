@@ -1,0 +1,12 @@
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\UnitTests.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\UnitTests.pdb
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.Wpf.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.pdb
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.xml
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.Wpf.pdb
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\bin\Debug\LiveCharts.Wpf.xml
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\obj\Debug\UnitTests.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\UnitTests\obj\Debug\UnitTests.pdb

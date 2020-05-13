@@ -1,0 +1,6 @@
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\bin\Debug\LiveCharts.XML
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\bin\Debug\LiveCharts.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\bin\Debug\LiveCharts.pdb
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\obj\Debug\Core.csprojAssemblyReference.cache
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\obj\Debug\LiveCharts.dll
+F:\DeskTopFile\5、[信息化建设后的某个时间点]数据分析体系建设\9、数据分析NET相关技术\1、LiveChart\Live-Charts-master\Core\obj\Debug\LiveCharts.pdb
